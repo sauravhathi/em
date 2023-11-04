@@ -8,6 +8,7 @@
   - [Installation](#installation)
 - [Usage](#usage)
   - [Storing Your Access Key](#storing-your-access-key)
+  - [Enable the Clipboard API](#enable-the-clipboard-api)
 - [Keyboard Shortcuts](#keyboard-shortcuts)
   - [Copy Question](#copy-question)
   - [Copy Chat Message](#copy-chat-message)
@@ -44,7 +45,9 @@ To use this project effectively, follow these steps:
 
 1. Paste the access key in the Access Key field in the Extension.
 
-### Enable the Clipboard
+### Enable the Clipboard API
+
+Click on lock icon in the address bar and enable the clipboard API.
 
 ![image](https://github.com/sauravhathi/em/assets/61316762/ecc93024-eb7d-4359-920f-1975c282ed47)
 
