@@ -44,6 +44,10 @@ To use this project effectively, follow these steps:
 
 1. Paste the access key in the Access Key field in the Extension.
 
+### Enable the Clipboard
+
+![image](https://github.com/sauravhathi/em/assets/61316762/ecc93024-eb7d-4359-920f-1975c282ed47)
+
 ## Keyboard Shortcuts
 
 This project offers several keyboard shortcuts to enhance your user experience:
