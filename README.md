@@ -31,7 +31,7 @@ To get started, you need an access key. Follow these steps to obtain it:
 4. Store it securely in a place of your choice.
 5. You can also pin it using `Win + V` in Windows for quick access.
 
-**Note:** The default API limit for this service is 15 request messages. Paid users will receive an API limit as specified in the form.
+**Note:** The default API limit for this service is 5 request messages. Paid users will receive an API limit as specified in the form.
 
 ### Installation
 
