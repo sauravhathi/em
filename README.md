@@ -37,7 +37,7 @@ To get started, you need an access key. Follow these steps to obtain it:
 
 Follow these simple steps to install the extension:
 
-1. **Download:** Download the ZIP file from [Release](https://github.com/sauravhathi/youtube-ad-blocker-popup-removal/releases) and extract it.
+1. **Download:** Download the ZIP file from [Release](https://github.com/sauravhathi/em/releases) and extract it.
 
 2. **Open Chrome Extensions:** In your Google Chrome browser, navigate to `chrome://extensions/`.
 
