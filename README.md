@@ -25,7 +25,7 @@ Project EM.
 
 To get started, you need an access key. Follow these steps to obtain it:
 
-1. Visit the [Access Key Request Form](https://forms.gle/Z2ebrseMRdNW1nAD7).
+1. Visit the [Access Key Request Form](https://forms.gle/Z2ebrseMRdNW1nAD7) use same email generate access key.
 2. Next, generate an access key from [here](https://google-palm-ai.vercel.app/generate_access_key).
 3. Copy the access key you received or generated.
 4. Store it securely in a place of your choice.
