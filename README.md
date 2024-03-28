@@ -75,7 +75,7 @@ This project offers several keyboard shortcuts to enhance your user experience:
 
 ### Paste
 
-- Press `Ctrl + B` or `Alt + B`, then press `Enter` to paste the copied text.
+- Press `Ctrl + B` or `Alt + B` to paste the copied text.
 
 ### Toggle Chat
 
