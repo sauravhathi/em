@@ -67,16 +67,16 @@ This project offers several keyboard shortcuts to enhance your user experience:
 
 ### Copy Question
 
-- Double-click on a question or option to copy it to the clipboard.
+- Press `Ctrl + C` or `Alt + C` to copy the selected text.
 
 ### Copy Chat Message
 
-- Double-click on a chat message to copy it to the clipboard.
+- press `Ctrl + C` or Double click on the message to copy the chat message.
 
 ### Paste
 
-- Press `Ctrl + B` or `Alt + B` to paste the copied text.
+- Press `Ctrl + V` or `Alt + V` to paste the copied text.
 
 ### Toggle Chat
 
-- Press `Alt + X`, `Alt + C`, or `Ctrl + Shift` to toggle the chat window.
+- Press `Alt + X`, `Alt + C` to toggle the chat window.
