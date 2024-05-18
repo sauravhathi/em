@@ -19,6 +19,8 @@
 
 Project EM.
 
+<img src="https://github.com/sauravhathi/em/assets/61316762/d93426f4-4dff-414c-97aa-61282ca7c81e" width="400px" alt="Coursera Automation Extension">
+
 ## Getting Started
 
 ### Access Key
