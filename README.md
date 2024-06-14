@@ -19,7 +19,13 @@
 
 Project EM.
 
-<img src="https://github.com/sauravhathi/em/assets/61316762/d93426f4-4dff-414c-97aa-61282ca7c81e" width="400px" alt="Coursera Automation Extension">
+`Note:` During the test, do not switch tabs or engage in other suspicious activities. If detected, you will be caught. Use this extension without switching tabs.
+
+## Demo (YouTube)
+
+<div align="center">
+  <a href="https://youtu.be/jKkWUVLRLnE"><img src="https://i.ytimg.com/vi/jKkWUVLRLnE/hqdefault.jpg" alt="Coursera Automation Extension"></a>
+</div>
 
 ## Getting Started
 
