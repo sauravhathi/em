@@ -24,7 +24,7 @@ Project EM.
 ## Demo (YouTube)
 
 <div align="center">
-  <a href="https://youtu.be/jKkWUVLRLnE"><img src="https://i.ytimg.com/vi/jKkWUVLRLnE/hqdefault.jpg" alt="Coursera Automation Extension"></a>
+  <a href="https://www.youtube.com/watch?v=WnhD92Hdpi0"><img src="https://i.ytimg.com/vi/WnhD92Hdpi0/hqdefault.jpg" alt="Coursera Automation Extension"></a>
 </div>
 
 ## Getting Started
