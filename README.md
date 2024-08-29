@@ -1,7 +1,5 @@
 # EM
 
-## New Version [Link](https://github.com/sauravhathi/neopa)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
